@@ -7,6 +7,8 @@ Input:
 1. An input file (Excel xlsx) must be prepared as shown in example.xlsx
 2. A username and password for account in Scopus
 
-#Requirements
+# Requirements
 
-Python 3, Pandas, Selenium
+Python 3, Pandas, Selenium, webdriver_manager.chrome
+
+
