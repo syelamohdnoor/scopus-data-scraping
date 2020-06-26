@@ -11,6 +11,12 @@ Input:
 
 Python 3, Pandas, Selenium, webdriver_manager.chrome
 
-# Acknowledgement/Reference
+# Notes
 
-The script is improvised from https://github.com/teonghan/Scopus-Extract-h-Index 
+1. There is more efficient way of doing this, by using Scopus API. For more detail, please visit https://dev.elsevier.com/.
+
+2. The script is improvised from https://github.com/teonghan/Scopus-Extract-h-Index. 
+
+3. You may go through some problems before succesfully scraping the data due to the connection problem to Scopus.com.
+
+4. It is advisable to check your output after scraping the data to detect errors and missing values.
