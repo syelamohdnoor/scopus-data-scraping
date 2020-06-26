@@ -1,4 +1,4 @@
-# scopus-data-scraping
+# Scopus-Data-Scraping
 
 A scopus data extraction script to scrape publication number, total citations and h-index from Scopus Author Profile
 
